@@ -1,4 +1,4 @@
 ### testtrace
 ```
-wget -qO- https://raw.githubusercontent.com/CCCOrz/testtrace/main/besttrace.sh | bash
+wget -qO- https://raw.githubusercontent.com/CCCOrz/besttrace/main/besttrace.sh | bash
 ```
